@@ -1,0 +1,2 @@
+from yeni import my_function as mync
+mync(2)
